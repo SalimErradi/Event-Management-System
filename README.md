@@ -1,0 +1,2 @@
+# Event-Management-System
+An event management system that acts as an interface to simulate cloud-based storage service. Designed and developed UML class diagrams to show the structure of how all classes were being organized.   Built header and source files to easier understand function,  Created MakeFiles to link all the object code and create an executable for easily running process prototypes and for function implementation.
